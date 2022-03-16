@@ -2,7 +2,7 @@ Method of Modify grub embedding configuration file:
 
 
 grubmenu_x86.exe, grubmenu_x64.exe, mkimage_x86.exe, mkimage_x64.exe, 
-grub-mkimage_x86.exe, grub-mkimage_x64.exe are compiled with Ubuntu 20.04 with Mingw.
+grub-mkimage_x86.exe, grub-mkimage_x64.exe are compiled with Ubuntu 20.04 Mingw.
 and Compressed with UPX.
 
 
